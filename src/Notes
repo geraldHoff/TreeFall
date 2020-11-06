@@ -1,0 +1,9 @@
+Notes for the game (TreeFall)
+
+Don't exactly know what it's gonna look like,
+but a tree will fall.
+
+terminology
+
+    the window is called the stage in javafx.
+    The content inside the window (stage) is called the scene.
