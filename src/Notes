@@ -1,5 +1,7 @@
 Notes for the game (TreeFall)
 
+Must include insertion, deletion, and search.
+
 Don't exactly know what it's gonna look like,
 but a tree will fall.
 
@@ -7,3 +9,14 @@ terminology
 
     the window is called the stage in javafx.
     The content inside the window (stage) is called the scene.
+
+TODO
+
+    input on side of screen for int to add, search, and delete nodes.
+
+    generate a new graphical tree after each input.
+
+    have the tree tip based off of where the nodes are.
+
+    If the tree reaches the bottom, the player loses.
+    If the tree reaches the top, the player wins.
